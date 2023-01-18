@@ -1,1 +1,2 @@
-# simpledummywebsite
+# Simple Dummy Website
+This is a simple dummy website that provides basic information about a student. It includes a name, a profile photo, and a student identification number. All the information is displayed on the homepage in a neat and organized format. The website is designed to be responsive, so it looks good on all devices, from smartphones to desktop computers. The website is also hosted on Amazon Web Services, so it is reliable and secure. This website is a great way to quickly and easily provide basic information about a student, with minimal effort required.
